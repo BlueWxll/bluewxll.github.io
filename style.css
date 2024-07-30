@@ -25,6 +25,11 @@ body {
     font-family: 'Satoshi-Light';
 }
 #access{
+      margin-top: -50px;
+      margin-left: -100px;
+      border-style: dashed;
+      border-width: 100px;
+      border-color: black;
     min-height: 100%;
     width: 100%;
     background-color: black;
